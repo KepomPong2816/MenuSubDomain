@@ -18,7 +18,7 @@
 of Simple CSS Waves-->
 
   <div class="header">
-
+    <h1>Application Project 2</h1>
     <!--Content before waves-->
     <div class="inner-header flex">
 
