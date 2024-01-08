@@ -17,12 +17,13 @@
   <!--Hey! This is the original version
 of Simple CSS Waves-->
 
-  <div class="header">
-    <h1>Application Project 2</h1>
+  <div class="header">  
+
     <!--Content before waves-->
     <div class="inner-header flex">
 
       <div class="menu">
+        <h1 style="margin-bottom: 30px;">Application Project 2</h1>
         <div class='sub-menu'>
           <a href="http://gohit.praktisimengajar.my.id">
             <img src="https://www.pinclipart.com/picdir/middle/576-5766468_pig-avatar-ukuran-100-x-100-pixel-clipart.png" class="rounded-pill" id="imgmenu1">
