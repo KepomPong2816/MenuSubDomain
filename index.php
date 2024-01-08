@@ -27,55 +27,63 @@ of Simple CSS Waves-->
         <div class='sub-menu'>
           <a href="http://gohit.praktisimengajar.my.id">
             <img src="https://www.pinclipart.com/picdir/middle/576-5766468_pig-avatar-ukuran-100-x-100-pixel-clipart.png" class="rounded-pill" id="imgmenu1">
+            <div class="text">Gohit</div>
           </a>
         </div>
 
         <div class='sub-menu'>
           <a href="http://liveit.praktisimengajar.my.id">
             <img src="https://www.pinclipart.com/picdir/middle/576-5766468_pig-avatar-ukuran-100-x-100-pixel-clipart.png" class="rounded-pill" id="imgmenu2">
+            <div class="text">Liveit</div>
           </a>
         </div>
 
         <div class='sub-menu'>
           <a href="http://ruanggambar.praktisimengajar.my.id">
             <img src="https://www.pinclipart.com/picdir/middle/576-5766468_pig-avatar-ukuran-100-x-100-pixel-clipart.png" class="rounded-pill" id="imgmenu1">
+            <div class="text">Ruang Gambar</div>
           </a>
         </div>
 
         <div class='sub-menu'>
           <a href="http://fitnessia.praktisimengajar.my.id">
             <img src="https://www.pinclipart.com/picdir/middle/576-5766468_pig-avatar-ukuran-100-x-100-pixel-clipart.png" class="rounded-pill" id="imgmenu2">
+            <div class="text">Fitnessia</div>
           </a>
         </div>
 
         <div class='sub-menu'>
           <a href="http://komaha.praktisimengajar.my.id">
             <img src="https://www.pinclipart.com/picdir/middle/576-5766468_pig-avatar-ukuran-100-x-100-pixel-clipart.png" class="rounded-pill" id="imgmenu1">
+            <div class="text">Komaha</div>
           </a>
         </div>
 
         <div class='sub-menu'>
           <a href="http://oncourse.praktisimengajar.my.id">
             <img src="https://www.pinclipart.com/picdir/middle/576-5766468_pig-avatar-ukuran-100-x-100-pixel-clipart.png" class="rounded-pill" id="imgmenu2">
+            <div class="text">On Course</div>
           </a>
         </div>
 
         <div class='sub-menu'>
           <a href="http://rentcar.praktisimengajar.my.id">
             <img src="https://www.pinclipart.com/picdir/middle/576-5766468_pig-avatar-ukuran-100-x-100-pixel-clipart.png" class="rounded-pill" id="imgmenu1">
+            <div class="text">Rent Car</div>
           </a>
         </div>
 
         <div class='sub-menu'>
           <a href="http://catcare.praktisimengajar.my.id">
             <img src="https://www.pinclipart.com/picdir/middle/576-5766468_pig-avatar-ukuran-100-x-100-pixel-clipart.png" class="rounded-pill" id="imgmenu2">
+            <div class="text">Cat Care</div>
           </a>
         </div>
       </div>
     </div>
 
     <!--Waves Container-->
-    <div>
+    <div sty>
       <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
         <defs>
           <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />

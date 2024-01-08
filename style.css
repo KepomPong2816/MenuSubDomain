@@ -5,6 +5,7 @@ body {
 }
 
 h1 {
+  font-family: 'Lato', sans-serif;
   font-weight:300;
   letter-spacing: 2px;
   font-size:48px;
@@ -61,22 +62,52 @@ p {
 }
 
 .menu {
-  padding-top: 140px;
+  padding-top:200px;
   width: 80%;
 }
+
+#round {
+  border-radius: 50%;
+      overflow: hidden;
+}
+
+.text {
+      position: absolute;
+      top: 60%;
+      left: 6%;
+      color: black;
+      font-weight: bold;
+      font-size: 20px;
+      font-family: Arial, sans-serif;
+    }
+
+.sub-menu {
+      position: relative;
+      display: inline-block;
+      padding: 5px 5px;
+      color: #3498db;
+      transition: background-color 0.3s, color 0.3s;
+    }
+
+    .sub-menu:hover {
+      background-color: #3498db;
+      color: #ffffff;
+    }
 
 #imgmenu1 {
   padding-bottom: 10px;
   float: left;
   width:500px;
-  height:90px;
+  height:80px;
+  border-radius: 50px;
 }
 
 #imgmenu2 {
   padding-bottom: 10px;
   float: right;
   width:500px;
-  height:90px;
+  height:80px;
+  border-radius: 50px;
 }
 
 /* Animation */
